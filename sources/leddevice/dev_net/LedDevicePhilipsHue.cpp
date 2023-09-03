@@ -45,7 +45,7 @@ namespace {
 
 	// Philips Hue OpenAPI URLs
 	const int API_DEFAULT_PORT = -1; //Use default port per communication scheme
-	const char API_BASE_PATH[] = "/api/%1/";
+	const char API_BASE_PATH[] = "/api/%1";
 	const char API_ROOT[] = "";
 	const char API_STATE[] = "state";
 	const char API_CONFIG[] = "config";
